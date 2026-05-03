@@ -1,0 +1,87 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "yumc": "https://www.yumchina.com/vocab/",
+
+    "YumChina": {
+      "@id": "schema:Organization",
+      "@type": "@id"
+    },
+    "Restaurant": "schema:FoodEstablishment",
+    "Brand": "schema:Brand",
+    "MenuItem": "schema:MenuItem",
+    "MenuSection": "schema:MenuSection",
+    "Menu": "schema:Menu",
+    "LoyaltyProgram": "schema:ProgramMembership",
+    "LoyaltyMember": "schema:Person",
+    "DigitalOrder": "schema:Order",
+    "OrderItem": "schema:OrderItem",
+    "DeliveryAddress": "schema:PostalAddress",
+
+    "superApp": {
+      "@id": "yumc:superApp",
+      "@type": "@id"
+    },
+    "superBrain": {
+      "@id": "yumc:superBrain",
+      "@type": "@id"
+    },
+    "membershipCount": {
+      "@id": "yumc:membershipCount"
+    },
+    "loyaltyPoints": {
+      "@id": "yumc:loyaltyPoints"
+    },
+    "digitalSalesPercentage": {
+      "@id": "yumc:digitalSalesPercentage"
+    },
+    "aiOrderingAssistant": {
+      "@id": "yumc:aiOrderingAssistant",
+      "@type": "@id"
+    },
+    "restaurantCount": {
+      "@id": "yumc:restaurantCount"
+    },
+    "brandName": {
+      "@id": "schema:brand"
+    },
+    "menuItemName": {
+      "@id": "schema:name"
+    },
+    "menuItemDescription": {
+      "@id": "schema:description"
+    },
+    "menuItemPrice": {
+      "@id": "schema:price"
+    },
+    "calories": {
+      "@id": "schema:calories"
+    },
+    "restaurantAddress": {
+      "@id": "schema:address",
+      "@type": "schema:PostalAddress"
+    },
+    "restaurantHours": {
+      "@id": "schema:openingHoursSpecification"
+    },
+    "orderStatus": {
+      "@id": "schema:orderStatus"
+    },
+    "estimatedDeliveryTime": {
+      "@id": "schema:expectedArrivalFrom"
+    },
+    "city": {
+      "@id": "schema:addressLocality"
+    },
+    "province": {
+      "@id": "schema:addressRegion"
+    },
+    "latitude": {
+      "@id": "schema:latitude"
+    },
+    "longitude": {
+      "@id": "schema:longitude"
+    }
+  }
+}

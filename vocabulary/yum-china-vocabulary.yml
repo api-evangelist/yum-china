@@ -1,0 +1,133 @@
+vocabulary:
+  name: Yum China Vocabulary
+  description: >-
+    Domain vocabulary for Yum China Holdings covering restaurant operations,
+    digital loyalty, Super App platform, and food technology in mainland China.
+  version: '2026-05-03'
+  tags:
+    - Restaurants
+    - China
+    - Digital Ordering
+    - Loyalty
+    - Food Technology
+
+terms:
+  # Core Brand Terms
+  - term: Super App
+    definition: >-
+      Yum China's integrated mobile application ecosystem combining digital
+      ordering, loyalty points, AI recommendations, and customer engagement
+      across KFC and Pizza Hut brands in mainland China.
+    tags:
+      - Platform
+      - Digital
+
+  - term: Super Brain
+    definition: >-
+      Yum China's AI-powered operational intelligence platform that leverages
+      data from across the restaurant network to support store manager
+      decision-making, demand forecasting, and supply chain optimization.
+    tags:
+      - AI
+      - Operations
+      - Technology
+
+  - term: KCOFFEE
+    definition: >-
+      KFC China's specialty coffee brand operating as a cafe-within-a-store
+      concept, scaled to over 1,300 locations by 2025, offering premium
+      beverages to KFC customers in China.
+    tags:
+      - Brand
+      - Beverage
+
+  - term: Loyalty Members
+    definition: >-
+      Registered members of Yum China's digital loyalty programs across KFC
+      and Pizza Hut. As of early 2026, the combined membership exceeds 590
+      million users.
+    tags:
+      - Loyalty
+      - Customer Engagement
+
+  - term: Little Sheep
+    definition: >-
+      A hot pot restaurant brand operated by Yum China, offering traditional
+      Chinese hot pot dining experiences across China.
+    tags:
+      - Brand
+      - Restaurants
+
+  - term: Huang Ji Huang
+    definition: >-
+      A Chinese simmer pot restaurant brand operated by Yum China,
+      serving traditional Chinese cuisine.
+    tags:
+      - Brand
+      - Restaurants
+
+  - term: Lavazza
+    definition: >-
+      Italian coffee brand with locations in China operated under a partnership
+      with Yum China Holdings.
+    tags:
+      - Brand
+      - Beverage
+
+  - term: Digital Member
+    definition: >-
+      A customer registered in Yum China's digital loyalty ecosystem who
+      participates in rewards programs and uses the Super App for ordering.
+    tags:
+      - Customer
+      - Loyalty
+
+  - term: Digital Transaction
+    definition: >-
+      Any customer order placed through Yum China's digital channels including
+      Super App, WeChat mini-programs, delivery platforms, or self-service kiosks.
+    tags:
+      - Metrics
+      - Digital
+
+  - term: AI Ordering Assistant
+    definition: >-
+      An AI-powered conversational assistant within the KFC Super App that
+      helps customers choose menu items using natural language interaction.
+    tags:
+      - AI
+      - Digital
+
+  - term: Franchisee
+    definition: >-
+      Yum China primarily operates company-owned restaurants rather than
+      traditional franchised locations, though some franchise-style partnerships
+      exist for certain brands.
+    tags:
+      - Operations
+      - Business Model
+
+  - term: Smart Kitchen
+    definition: >-
+      AI-assisted kitchen management systems that optimize food preparation
+      timing, ingredient usage, and order throughput across Yum China locations.
+    tags:
+      - Operations
+      - Technology
+
+  - term: RMB
+    definition: >-
+      Renminbi (Chinese Yuan), the primary currency used in financial
+      reporting and transactions for Yum China's mainland China operations.
+    tags:
+      - Finance
+      - Currency
+
+  - term: Same-Store Sales
+    definition: >-
+      A retail performance metric measuring revenue growth at restaurant
+      locations open for at least one full year, used as a key indicator
+      of Yum China's organic growth.
+    tags:
+      - Metrics
+      - Finance
