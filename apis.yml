@@ -59,6 +59,10 @@ apis:
       - type: Support
         url: https://www.yumchina.com/en/contact-us
 common:
+  - type: GitHubOrganization
+    url: https://github.com/yumchina
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/yum-china
   - type: Website
     url: https://www.yumchina.com
   - type: Investors
