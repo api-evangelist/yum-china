@@ -2,7 +2,7 @@ aid: yum-china
 name: Yum China
 url: https://raw.githubusercontent.com/api-evangelist/yum-china/refs/heads/main/apis.yml
 created: '2026-03-21'
-modified: '2026-05-03'
+modified: '2026-06-03'
 specificationVersion: '0.19'
 description: >-
   Yum China Holdings is the largest restaurant company in China by system sales,
@@ -71,11 +71,22 @@ common:
     url: https://www.yumchina.com/en/news
   - type: PrivacyPolicy
     url: https://www.yumchina.com/en/privacy-policy
+  - type: Plans
+    url: plans/yum-china-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/yum-china-rate-limits.yml
+  - type: FinOps
+    url: finops/yum-china-finops.yml
+  - type: Vocabulary
+    url: vocabulary/yum-china-vocabulary.yml
+  - type: JSONLD
+    url: json-ld/yum-china-context.jsonld
   - type: Features
     data:
       - name: Digital Ordering
       - name: Super App Platform
       - name: AI Ordering Assistant
+      - name: Q-Smart AI Restaurant Manager Assistant
       - name: Loyalty Programs (590M+ Members)
       - name: Super Brain AI Operations
       - name: KCOFFEE
