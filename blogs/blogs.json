@@ -3,16 +3,13 @@
   "feeds": [
     {
       "source": "https://www.yumchina.com/en/news",
-      "feed_url": "https://www.yumchina.com/en/news",
-      "title": "",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
-    },
-    {
-      "source": "https://ir.yumchina.com",
-      "error": "timeout"
+      "method": "agent-scrape",
+      "error": "page JS-rendered, no posts extractable"
     }
   ],
-  "fetched": "2026-06-14T20:42:17Z",
-  "post_count": 0
+  "fetched": "2026-06-27T13:22:37Z",
+  "post_count": 0,
+  "agent_pulled": "2026-06-27"
 }
