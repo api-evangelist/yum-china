@@ -59,6 +59,8 @@ apis:
       - type: Support
         url: https://www.yumchina.com/en/contact-us
 common:
+  - type: DomainSecurity
+    url: security/yum-china-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/yumchina
   - type: LinkedIn
