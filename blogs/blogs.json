@@ -2,11 +2,14 @@
   "repo": "yum-china",
   "feeds": [
     {
-      "source": "https://ir.yumchina.com",
-      "error": "TimeoutError"
+      "source": "https://www.yumchina.com/en/news",
+      "feed_url": "https://www.yumchina.com/en/news",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 0,
   "agent_pulled": "2026-06-27"
 }
